@@ -1,2 +1,3 @@
 # Yama-s-Websiye
-my first webiste
+my first website
+Author-Yama
