@@ -1,23 +1,48 @@
+h1{
+    font-size: 10 rem;
+    color: black;   
+
+}
+
+
  body{
-              background-image: url("web pic/white-glitch-wave-effect-black-background.jpg");
-            background-size: cover;
-            background-position: center;
-            background-repeat: no-repeat;
-            background-attachment: fixed;
-        }
+    background-color:rgb(207, 233, 255)
+ }
 .body{
     
-    color: white;
-    font-family: 'Courier New', Courier, monospace;
-    text-align: center;
     
-    padding-bottom: 1px;
-   
+    margin:0 auto; ;
+ padding: 45px 25vw ;
+    
+    
+    
+
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  
+  
+
+    
+}
+.feat{
+    padding: 0 20vw ;
+    border-bottom: 2px rgb(207, 207, 207) solid;
+}
+.head{
+    font-size: 2rem;
+    color: black;
+    
+    
+}
+
+.intro{
+    font-size: 1.3rem;
+    color: rgb(107, 107, 107);
 }
 .bottom{
     
    
-    color:white;
-    font-family: 'Courier New', Courier, monospace;
-    text-align: center;
+    color:black;
+    padding: 0 20vw;
+    
 }
