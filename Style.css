@@ -1,0 +1,23 @@
+ body{
+              background-image: url("web pic/white-glitch-wave-effect-black-background.jpg");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+.body{
+    
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+    padding-bottom: 1px;
+   
+}
+.bottom{
+    
+   
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
